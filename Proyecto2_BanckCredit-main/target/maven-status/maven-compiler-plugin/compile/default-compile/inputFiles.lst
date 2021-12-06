@@ -1,0 +1,13 @@
+C:\Users\jniquena\Desktop\git_credit_microservice\BanckCredit\Proyecto2_BanckCredit-main\src\main\java\com\banck\banckcredit\infraestructure\rest\CreditController.java
+C:\Users\jniquena\Desktop\git_credit_microservice\BanckCredit\Proyecto2_BanckCredit-main\src\main\java\com\banck\banckcredit\infraestructure\model\dao\CreditDao.java
+C:\Users\jniquena\Desktop\git_credit_microservice\BanckCredit\Proyecto2_BanckCredit-main\src\main\java\com\banck\banckcredit\utils\CustomerType.java
+C:\Users\jniquena\Desktop\git_credit_microservice\BanckCredit\Proyecto2_BanckCredit-main\src\main\java\com\banck\banckcredit\domain\Credit.java
+C:\Users\jniquena\Desktop\git_credit_microservice\BanckCredit\Proyecto2_BanckCredit-main\src\main\java\com\banck\banckcredit\spring\config\SpringConfiguration.java
+C:\Users\jniquena\Desktop\git_credit_microservice\BanckCredit\Proyecto2_BanckCredit-main\src\main\java\com\banck\banckcredit\BanckCreditApplication.java
+C:\Users\jniquena\Desktop\git_credit_microservice\BanckCredit\Proyecto2_BanckCredit-main\src\main\java\com\banck\banckcredit\infraestructure\repository\CreditCrudRepository.java
+C:\Users\jniquena\Desktop\git_credit_microservice\BanckCredit\Proyecto2_BanckCredit-main\src\main\java\com\banck\banckcredit\aplication\impl\CreditOperationsImpl.java
+C:\Users\jniquena\Desktop\git_credit_microservice\BanckCredit\Proyecto2_BanckCredit-main\src\main\java\com\banck\banckcredit\infraestructure\mockRepository\MockCreditRepository.java
+C:\Users\jniquena\Desktop\git_credit_microservice\BanckCredit\Proyecto2_BanckCredit-main\src\main\java\com\banck\banckcredit\aplication\CreditOperations.java
+C:\Users\jniquena\Desktop\git_credit_microservice\BanckCredit\Proyecto2_BanckCredit-main\src\main\java\com\banck\banckcredit\aplication\model\CreditRepository.java
+C:\Users\jniquena\Desktop\git_credit_microservice\BanckCredit\Proyecto2_BanckCredit-main\src\main\java\com\banck\banckcredit\utils\CreditType.java
+C:\Users\jniquena\Desktop\git_credit_microservice\BanckCredit\Proyecto2_BanckCredit-main\src\main\java\com\banck\banckcredit\infraestructure\repository\ICreditCrudRepository.java

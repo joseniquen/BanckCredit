@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.banck.banckcredit.BanckCreditApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 35.675 s - in com.banck.banckcredit.BanckCreditApplicationTests
